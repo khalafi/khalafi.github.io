@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### حضور تمام وقت در شرکت های زیر 
 
 [حس فرآیندگستر](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
